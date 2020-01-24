@@ -1,5 +1,5 @@
-qBittorrent with Netcat
-=======================
+qBittorrent with Netcat for Docker
+==================================
 
 LinuxServer.io's qBittorrent Docker image with Netcat (traditional) added for passing data over sockets with qBitorrent's "Run external program on torrent completion" option
 
