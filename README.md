@@ -1,7 +1,7 @@
 qBittorrent with Netcat
 =======================
 
-LinuxServer.io's qBittorrent with Netcat (traditional) added for passing data over sockets with qBitorrent's "Run external program on torrent completion" option
+LinuxServer.io's qBittorrent Docker image with Netcat (traditional) added for passing data over sockets with qBitorrent's "Run external program on torrent completion" option
 
 
 Syntax
