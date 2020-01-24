@@ -22,6 +22,6 @@ Syntax
 Example
 -------
 
-**Send all available data separated by new lines to `examplehost` on port 1234**
+Send all available data separated by new lines to `examplehost` on port 1234
 
 `echo -e "%N\n%L\n%G\n%F\n%R\n%D\n%C\n%Z\n%T\n%I" | nc examplehost 1234`
